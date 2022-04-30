@@ -6,15 +6,17 @@
 그래서 6의 약수는 1, 2, 3, 6, 총 네 개이다.
 두 개의 자연수 N과 K가 주어졌을 때, N의 약수들 중 K번째로 작은 수를 출력하는 프로그램을 작성하시오.
 
-▣ 입력설명.  
+▣ 입력설명  
 첫째 줄에 N과 K가 빈칸을 사이에 두고 주어진다. N은 1 이상 10,000 이하이다. K는 1 이상 N 이하이다.   
 
-▣ 출력설명.  
+▣ 출력설명  
 첫째 줄에 N의 약수들 중 K번째로 작은 수를 출력한다. 만일 N의 약수의 개수가 K개보다 적어서 K번째 약수가 존재하지 않을 경우에는 -1을 출력하시오. 
 
-▣ 입력예제 1 63
+▣ 입력예제 
+1 63
 
-▣ 출력예제 1 3
+▣ 출력예제 
+1 3
 
 [문제풀이](https://github.com/nare0317/Inflearn_Python-Algorithm-Practice/blob/main/%EC%84%B9%EC%85%982-%EC%BD%94%EB%93%9C%EA%B5%AC%ED%98%84%EB%A0%A5%EA%B8%B0%EB%A5%B4%EA%B8%B0/1.%20k%EB%B2%88%EC%A7%B8%20%EC%95%BD%EC%88%98.py)
 
@@ -46,7 +48,7 @@ N개의 숫자로 이루어진 숫자열이 주어지면 해당 숫자열중에�
 case 1 : 2 7 3 8의 숫자 중 오름차순 정렬 했을 때 3번째 숫자는 7이다.
 case 2 : 8 16 6 6 17 3 10 11의 숫자 중 오름차순 정렬 했을 때 3번째 숫자는 6이다.
 
-[문제풀이](https://github.com/nare0317/Inflearn_Python-Algorithm-Practice/blob/main/%EC%84%B9%EC%85%982-%EC%BD%94%EB%93%9C%EA%B5%AC%ED%98%84%EB%A0%A5%EA%B8%B0%EB%A5%B4%EA%B8%B0/1.%20k%EB%B2%88%EC%A7%B8%20%EC%95%BD%EC%88%98.py)
+[문제풀이](https://github.com/nare0317/Inflearn_Python-Algorithm-Practice/blob/cad46e54df4c09449dda072b9e2fea4537eccdb1/%EC%84%B9%EC%85%982-%EC%BD%94%EB%93%9C%EA%B5%AC%ED%98%84%EB%A0%A5%EA%B8%B0%EB%A5%B4%EA%B8%B0/2.%20K%EB%B2%88%EC%A7%B8%20%EC%88%98.py)
 
 출처 : 한국정보올림피아드
 [자료구조와 알고리즘 입문]
