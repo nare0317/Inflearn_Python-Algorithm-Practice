@@ -16,6 +16,11 @@
 
 ▣ 출력예제 1 3
 
+[문제풀이](https://github.com/nare0317/Inflearn_Python-Algorithm-Practice/blob/main/%EC%84%B9%EC%85%982-%EC%BD%94%EB%93%9C%EA%B5%AC%ED%98%84%EB%A0%A5%EA%B8%B0%EB%A5%B4%EA%B8%B0/1.%20k%EB%B2%88%EC%A7%B8%20%EC%95%BD%EC%88%98.py)
+
+
+
+
 출처 : 한국정보올림피아드
 [자료구조와 알고리즘 입문]
   
